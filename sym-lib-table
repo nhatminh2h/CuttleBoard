@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "USB-C")(type "KiCad")(uri "${KIPRJMOD}/DX07WH24JA3R1200/2023-11-08_18-04-13.kicad_sym")(options "")(descr ""))
+  (lib (name "UltimateFC")(type "Legacy")(uri "${KIPRJMOD}/lib_ultimateFC.lib")(options "")(descr ""))
+)
