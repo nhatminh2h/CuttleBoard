@@ -1,4 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "S25FL064LABNFI010")(type "KiCad")(uri "${KIPRJMOD}/S25FL064LABNFI010.pretty")(options "")(descr ""))
-)

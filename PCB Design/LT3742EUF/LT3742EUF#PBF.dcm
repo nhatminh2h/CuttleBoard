@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP LT3742EUF#PBF
-D LT3742EUF#PBF, PWM Soft Switching Controller, Dual Switching Regulator, 1120 kHz, 24-Pin QFN EP
-K
-F https://componentsearchengine.com/Datasheets/1/LT3742EUF#PBF.pdf
-$ENDCMP
-#
-#End Doc Library

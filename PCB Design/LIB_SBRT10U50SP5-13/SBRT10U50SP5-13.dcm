@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP SBRT10U50SP5-13
-D Diodes Inc 50V 10A, Diode, 3-Pin PowerDI 5 SBRT10U50SP5-13
-K
-F https://www.diodes.com/assets/Datasheets/SBRT10U50SP5.pdf
-$ENDCMP
-#
-#End Doc Library
