@@ -58,7 +58,16 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "unconnected_items|108500000|79000000|bbc12b2c-490f-4cea-99f5-ab9df6058ef9|260c0b8b-8bf8-4952-8048-22fcd711c6d0",
+        "unconnected_items|136400000|119000000|566a0e8e-e28c-4b02-b379-3344bc3e9ee7|31e4158e-4d24-4498-b9e4-7b32267afe56",
+        "unconnected_items|137700000|117400000|9fe19471-fa2e-42d5-88c8-2118eb1b18ce|0c3d1fc8-093f-48ae-884b-26c9eae944d8",
+        "unconnected_items|146200000|79000000|21f1a527-2cb9-4856-971e-76141cab48d1|01eef38b-c4a2-4a9f-abc0-0100fe3f9bd9",
+        "unconnected_items|146200000|80600000|9523c85f-2a87-43d7-a80d-cb56291b91c9|e053080b-8b4b-46f4-bcd8-0e4a256364dc",
+        "unconnected_items|98800000|117400000|bb7f4473-1e0f-4f76-ad8d-742290872225|fabd57e1-fb30-4656-b595-8e34ba88e2ad",
+        "unconnected_items|98800000|119000000|07f3ddcf-421d-4cfa-b098-366f8d3f5b5c|6a8b887b-a290-4a94-96ed-99ae6c8ed3eb",
+        "unconnected_items|98800000|80600000|ac2a1ae9-e161-4ab5-97cb-1aabf860749a|48702a7b-0852-457c-9523-b0c85aaf3b8a"
+      ],
       "meta": {
         "version": 2
       },
@@ -129,7 +138,7 @@
         "min_through_hole_diameter": 0.1,
         "min_track_width": 0.0,
         "min_via_annular_width": 0.05,
-        "min_via_diameter": 0.3,
+        "min_via_diameter": 0.45,
         "solder_mask_clearance": 0.0,
         "solder_mask_min_width": 0.0,
         "solder_mask_to_copper_clearance": 0.0,
@@ -226,11 +235,11 @@
           "drill": 0.2
         },
         {
-          "diameter": 0.35,
+          "diameter": 0.4,
           "drill": 0.2
         },
         {
-          "diameter": 0.4,
+          "diameter": 0.45,
           "drill": 0.2
         },
         {

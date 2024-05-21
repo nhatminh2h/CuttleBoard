@@ -15540,6 +15540,25 @@
 		)
 		(uuid b1caabc0-eede-453a-b361-90bda25e75ad)
 	)
+	(text_box "Changed from UART4 to UART2"
+		(exclude_from_sim no)
+		(at 163.83 49.53 0)
+		(size 30.48 8.89)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "16e171c8-ba95-4aac-a101-b93a84ae6e98")
+	)
 	(text "assign IMU INT line"
 		(exclude_from_sim no)
 		(at 401.32 283.21 0)
@@ -42271,7 +42290,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ultimateFC:R_0201_0603Metric_mod"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 295.402 129.54 90)
 			(effects
 				(font
