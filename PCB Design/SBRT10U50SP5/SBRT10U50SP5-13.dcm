@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SBRT10U50SP5-13
+D Schottky Rectifier, 50 V, 10 A, Single, PowerDI 5, 3 Pins, 450 mV
+K
+F https://www.diodes.com/assets/Datasheets/SBRT10U50SP5.pdf
+$ENDCMP
+#
+#End Doc Library

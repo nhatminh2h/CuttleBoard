@@ -10003,10 +10003,6 @@
 		(uuid "2d88032a-940b-4862-a4de-93afde41023a")
 	)
 	(no_connect
-		(at 359.41 81.28)
-		(uuid "3561c323-a335-464e-95ec-371b3862afee")
-	)
-	(no_connect
 		(at 405.13 53.34)
 		(uuid "4041ebcd-0621-4641-acc9-5645c99b5194")
 	)
@@ -11467,6 +11463,16 @@
 			(type default)
 		)
 		(uuid "3c63ff8e-32dd-4472-a5cb-863a6d60a3a4")
+	)
+	(wire
+		(pts
+			(xy 349.25 81.28) (xy 359.41 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3d608351-df4c-4240-9bbc-ca41f1802641")
 	)
 	(wire
 		(pts
@@ -17860,6 +17866,26 @@
 		(uuid "d21bc352-b78c-4284-bb5b-613aa98b9314")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 172.72 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "UART7_TX"
+		(shape input)
+		(at 349.25 81.28 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "d26957c0-32da-422e-8b09-1d732947c4a9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 349.25 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24961,7 +24987,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SBRT10U50SP513"
+		(property "Footprint" "SBRT10U50SP5:SBRT10U50SP513"
 			(at 57.15 119.71 0)
 			(effects
 				(font
@@ -31952,7 +31978,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "SBRT10U50SP513"
+		(property "Footprint" "SBRT10U50SP5:SBRT10U50SP513"
 			(at 130.48 224.79 0)
 			(effects
 				(font
@@ -34934,7 +34960,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SBRT10U50SP513"
+		(property "Footprint" "SBRT10U50SP5:SBRT10U50SP513"
 			(at 57.15 165.43 0)
 			(effects
 				(font
@@ -40521,7 +40547,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "SBRT10U50SP513"
+		(property "Footprint" "SBRT10U50SP5:SBRT10U50SP513"
 			(at 192.71 224.79 0)
 			(effects
 				(font
