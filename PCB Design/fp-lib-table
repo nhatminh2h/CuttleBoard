@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "S25FL064LABNFI010")(type "KiCad")(uri "${KIPRJMOD}/S25FL064LABNFI010.pretty")(options "")(descr ""))
   (lib (name "SBRT10U50SP5")(type "KiCad")(uri "${KIPRJMOD}/SBRT10U50SP5")(options "")(descr ""))
+  (lib (name "logo")(type "KiCad")(uri "/home/mlewand/Desktop/PROJS/CuttleBoard/logo.pretty")(options "")(descr ""))
 )
